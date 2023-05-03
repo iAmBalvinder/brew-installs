@@ -19,6 +19,7 @@ notion
 rectangle
 spotify
 skitch
+stats
 sublime-text
 todoist
 time-out
