@@ -6,6 +6,7 @@ android-platform-tools
 android-file-transfer
 citrix-workspace
 discord
+ddpm
 git
 github
 google-chrome
@@ -23,6 +24,7 @@ skitch
 stats
 sublime-text
 todoist
+trader-workstation
 time-out
 usage
 whatsapp
