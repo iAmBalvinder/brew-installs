@@ -1,6 +1,7 @@
 appcleaner
 anaconda
 alt-tab
+alfred
 android-platform-tools
 android-file-transfer
 citrix-workspace
