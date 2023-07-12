@@ -1,13 +1,15 @@
 appcleaner
 anaconda
 alt-tab
-alfred
 android-platform-tools
 android-file-transfer
 citrix-workspace
+cheatsheet
+cowsay
 discord
 ddpm
 git
+git-lfs
 github
 google-chrome
 chrome-remote-desktop-host
@@ -23,7 +25,7 @@ spotify
 skitch
 stats
 sublime-text
-todoist
+ticktick
 trader-workstation
 time-out
 usage
