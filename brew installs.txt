@@ -19,7 +19,7 @@ itsycal
 keka
 logi options-plus
 microsoft-office
-notion
+--notion
 rectangle
 skitch
 spotify
