@@ -1,8 +1,9 @@
 alt-tab
 anaconda
---android-file-transfer
+android-file-transfer
 android-platform-tools
 appcleaner
+audacity
 cheatsheet
 --chrome-remote-desktop-host
 --citrix-workspace
@@ -18,10 +19,14 @@ iterm2
 itsycal
 keka
 logi options-plus
+maccy
 microsoft-office
+miniconda
 --notion
+postman
 rectangle
 skitch
+skype
 spotify
 stats
 sublime-text
