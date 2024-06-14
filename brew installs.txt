@@ -23,6 +23,7 @@ maccy
 microsoft-office
 miniconda
 --notion
+platform tools
 postman
 rectangle
 skitch
@@ -31,6 +32,7 @@ spotify
 stats
 sublime-text
 ticktick
+telegram
 --time-out
 trader-workstation
 --usage
