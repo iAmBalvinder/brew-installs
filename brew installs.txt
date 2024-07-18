@@ -22,7 +22,7 @@ logi options-plus
 maccy
 microsoft-office
 miniconda
---notion
+notion
 platform tools
 postman
 rectangle
@@ -39,5 +39,5 @@ trader-workstation
 visual-studio-code
 vlc
 wget
---whatsapp
+whatsapp
 zoom
