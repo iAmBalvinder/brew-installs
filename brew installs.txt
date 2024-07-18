@@ -32,7 +32,7 @@ skype
 spotify
 stats
 sublime-text
-syncthing
+syncthing --cask
 ticktick
 telegram
 --time-out
