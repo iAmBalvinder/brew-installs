@@ -22,7 +22,8 @@ logi options-plus
 maccy
 microsoft-office
 miniconda
-notion
+--notion
+obsidian
 platform tools
 postman
 rectangle
@@ -31,6 +32,7 @@ skype
 spotify
 stats
 sublime-text
+syncthing
 ticktick
 telegram
 --time-out
