@@ -3,13 +3,14 @@ anaconda
 android-file-transfer
 android-platform-tools
 appcleaner
-audacity
+--audacity
 cheatsheet
 --chrome-remote-desktop-host
 --citrix-workspace
 --cowsay
 ddpm
 discord
+docker
 git
 git-lfs
 github
@@ -19,17 +20,23 @@ iterm2
 itsycal
 keka
 logi options-plus
-maccy
+logi-options+
+--maccy
 microsoft-office
 miniconda
---notion
 obsidian
+openssl@3
 platform tools
+pipx
+postgresql@16
 postman
+python@3.12
 rectangle
-skitch
+--skitch
 skype
+slack
 spotify
+sqlite
 stats
 sublime-text
 syncthing --cask
