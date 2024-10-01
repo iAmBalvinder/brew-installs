@@ -20,6 +20,7 @@ google-drive
 iterm2
 itsycal
 keka
+localsend
 logi options-plus
 logi-options+
 --maccy
