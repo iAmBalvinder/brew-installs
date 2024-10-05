@@ -1,9 +1,10 @@
 alt-tab
-anaconda
+--anaconda
 android-file-transfer
 android-platform-tools
 appcleaner
 --audacity
+ca-certificates
 cheatsheet
 --chrome-remote-desktop-host
 --citrix-workspace
@@ -11,13 +12,15 @@ cheatsheet
 ddpm
 discord
 docker
+font-fira-code-nerd-font
+gettext
 git
+git-credential-manager
 git-lfs
 github
-git-credential-manager
 google-chrome
 google-drive
-iterm2
+--iterm2
 itsycal
 keka
 localsend
@@ -25,12 +28,11 @@ logi options-plus
 logi-options+
 --maccy
 microsoft-office
+microsoft-auto-update
 miniconda
 obsidian
 openssl@3
-platform tools
-pipx
-postgresql@16
+poetry
 postman
 python@3.12
 rectangle
@@ -39,16 +41,20 @@ skype
 slack
 spotify
 sqlite
+starship
 stats
 sublime-text
-syncthing --cask
-ticktick
+syncthing 
 telegram
+ticktick
 --time-out
 trader-workstation
 --usage
 visual-studio-code
 vlc
+wezterm
 wget
 whatsapp
 zoom
+zsh-autosuggestions
+zsh-syntax-highlighting
