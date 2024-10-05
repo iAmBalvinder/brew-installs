@@ -55,6 +55,8 @@ vlc
 wezterm
 wget
 whatsapp
+
+--xargs brew install < brew installs.txt
 zoom
 zsh-autosuggestions
 zsh-syntax-highlighting
