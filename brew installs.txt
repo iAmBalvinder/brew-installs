@@ -1,4 +1,4 @@
-alt-tab
+--alt-tab
 --anaconda
 android-file-transfer
 android-platform-tools
