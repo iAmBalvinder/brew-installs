@@ -9,7 +9,7 @@ cheatsheet
 --chrome-remote-desktop-host
 --citrix-workspace
 --cowsay
-ddpm
+--ddpm
 discord
 docker
 font-fira-code-nerd-font
@@ -20,11 +20,11 @@ git-lfs
 github
 google-chrome
 google-drive
+ibkr
 --iterm2
 itsycal
 keka
 localsend
-logi options-plus
 logi-options+
 --maccy
 microsoft-office
@@ -39,6 +39,7 @@ rectangle
 --skitch
 skype
 slack
+smartmontools
 spotify
 sqlite
 starship
@@ -55,8 +56,9 @@ vlc
 wezterm
 wget
 whatsapp
-
---xargs brew install < brew installs.txt
 zoom
 zsh-autosuggestions
 zsh-syntax-highlighting
+
+--xargs brew install < brew installs.txt
+
