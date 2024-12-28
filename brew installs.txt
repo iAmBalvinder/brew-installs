@@ -13,6 +13,7 @@ cheatsheet
 discord
 docker
 font-fira-code-nerd-font
+freecad
 gettext
 git
 git-credential-manager
